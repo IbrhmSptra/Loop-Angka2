@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Angka 2 dri angka/1.0.0": {
+        "runtime": {
+          "Angka 2 dri angka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Angka 2 dri angka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

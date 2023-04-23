@@ -1,0 +1,32 @@
+C:\Users\Ibrahim Saputra\OneDrive\Documents\Angka 2 dri angka\bin\Debug\net5.0\Angka 2 dri angka.exe
+C:\Users\Ibrahim Saputra\OneDrive\Documents\Angka 2 dri angka\bin\Debug\net5.0\Angka 2 dri angka.deps.json
+C:\Users\Ibrahim Saputra\OneDrive\Documents\Angka 2 dri angka\bin\Debug\net5.0\Angka 2 dri angka.runtimeconfig.json
+C:\Users\Ibrahim Saputra\OneDrive\Documents\Angka 2 dri angka\bin\Debug\net5.0\Angka 2 dri angka.runtimeconfig.dev.json
+C:\Users\Ibrahim Saputra\OneDrive\Documents\Angka 2 dri angka\bin\Debug\net5.0\Angka 2 dri angka.dll
+C:\Users\Ibrahim Saputra\OneDrive\Documents\Angka 2 dri angka\bin\Debug\net5.0\ref\Angka 2 dri angka.dll
+C:\Users\Ibrahim Saputra\OneDrive\Documents\Angka 2 dri angka\bin\Debug\net5.0\Angka 2 dri angka.pdb
+C:\Users\Ibrahim Saputra\OneDrive\Documents\Angka 2 dri angka\obj\Debug\net5.0\Angka 2 dri angka.csproj.AssemblyReference.cache
+C:\Users\Ibrahim Saputra\OneDrive\Documents\Angka 2 dri angka\obj\Debug\net5.0\Angka 2 dri angka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim Saputra\OneDrive\Documents\Angka 2 dri angka\obj\Debug\net5.0\Angka 2 dri angka.AssemblyInfoInputs.cache
+C:\Users\Ibrahim Saputra\OneDrive\Documents\Angka 2 dri angka\obj\Debug\net5.0\Angka 2 dri angka.AssemblyInfo.cs
+C:\Users\Ibrahim Saputra\OneDrive\Documents\Angka 2 dri angka\obj\Debug\net5.0\Angka 2 dri angka.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim Saputra\OneDrive\Documents\Angka 2 dri angka\obj\Debug\net5.0\Angka 2 dri angka.dll
+C:\Users\Ibrahim Saputra\OneDrive\Documents\Angka 2 dri angka\obj\Debug\net5.0\ref\Angka 2 dri angka.dll
+C:\Users\Ibrahim Saputra\OneDrive\Documents\Angka 2 dri angka\obj\Debug\net5.0\Angka 2 dri angka.pdb
+C:\Users\Ibrahim Saputra\OneDrive\Documents\Angka 2 dri angka\obj\Debug\net5.0\Angka 2 dri angka.genruntimeconfig.cache
+C:\Users\Ibrahim Saputra\OneDrive\Documents\C# iseng\Angka 2 dri angka\bin\Debug\net5.0\Angka 2 dri angka.exe
+C:\Users\Ibrahim Saputra\OneDrive\Documents\C# iseng\Angka 2 dri angka\bin\Debug\net5.0\Angka 2 dri angka.deps.json
+C:\Users\Ibrahim Saputra\OneDrive\Documents\C# iseng\Angka 2 dri angka\bin\Debug\net5.0\Angka 2 dri angka.runtimeconfig.json
+C:\Users\Ibrahim Saputra\OneDrive\Documents\C# iseng\Angka 2 dri angka\bin\Debug\net5.0\Angka 2 dri angka.runtimeconfig.dev.json
+C:\Users\Ibrahim Saputra\OneDrive\Documents\C# iseng\Angka 2 dri angka\bin\Debug\net5.0\Angka 2 dri angka.dll
+C:\Users\Ibrahim Saputra\OneDrive\Documents\C# iseng\Angka 2 dri angka\bin\Debug\net5.0\ref\Angka 2 dri angka.dll
+C:\Users\Ibrahim Saputra\OneDrive\Documents\C# iseng\Angka 2 dri angka\bin\Debug\net5.0\Angka 2 dri angka.pdb
+C:\Users\Ibrahim Saputra\OneDrive\Documents\C# iseng\Angka 2 dri angka\obj\Debug\net5.0\Angka 2 dri angka.csproj.AssemblyReference.cache
+C:\Users\Ibrahim Saputra\OneDrive\Documents\C# iseng\Angka 2 dri angka\obj\Debug\net5.0\Angka 2 dri angka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim Saputra\OneDrive\Documents\C# iseng\Angka 2 dri angka\obj\Debug\net5.0\Angka 2 dri angka.AssemblyInfoInputs.cache
+C:\Users\Ibrahim Saputra\OneDrive\Documents\C# iseng\Angka 2 dri angka\obj\Debug\net5.0\Angka 2 dri angka.AssemblyInfo.cs
+C:\Users\Ibrahim Saputra\OneDrive\Documents\C# iseng\Angka 2 dri angka\obj\Debug\net5.0\Angka 2 dri angka.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim Saputra\OneDrive\Documents\C# iseng\Angka 2 dri angka\obj\Debug\net5.0\Angka 2 dri angka.dll
+C:\Users\Ibrahim Saputra\OneDrive\Documents\C# iseng\Angka 2 dri angka\obj\Debug\net5.0\ref\Angka 2 dri angka.dll
+C:\Users\Ibrahim Saputra\OneDrive\Documents\C# iseng\Angka 2 dri angka\obj\Debug\net5.0\Angka 2 dri angka.pdb
+C:\Users\Ibrahim Saputra\OneDrive\Documents\C# iseng\Angka 2 dri angka\obj\Debug\net5.0\Angka 2 dri angka.genruntimeconfig.cache
